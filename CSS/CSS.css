@@ -28,7 +28,7 @@ a:active {
     color: Navy;
 }
 
-formbox
+form
 {
    background-color: WHITE;
     display: flex;
@@ -47,8 +47,3 @@ img.displayed {
     border: 3px solid black;
 }
 
-@media only screen and (max-width : 650px) and (min-width : 481px) {
-    img.displayed{
-        height: 200;
-        widith: 150;
-    }
